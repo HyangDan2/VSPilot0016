@@ -1,4 +1,5 @@
-import sys
+import sys, os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from PySide6 import QtWidgets
 from ui.main_window import ImageQualityMVP
 

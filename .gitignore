@@ -16,3 +16,4 @@ videos/
 .DS_Store
 .idea/
 .vscode/
+mvp.py
